@@ -63,8 +63,6 @@ Each task below is self-contained: source code, its own README with setup instru
 
 </table>
 
-<details>
-
 ---
 
 ## 📈 Progress
