@@ -61,7 +61,9 @@ Each task below is self-contained: source code, its own README with setup instru
 <td>API integration, JSON parsing, error handling</td>
 </tr>
 
-</details>
+</table>
+
+<details>
 
 ---
 
