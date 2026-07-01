@@ -22,7 +22,7 @@ This repository documents my journey through the **Oasis Infobyte Python Program
 
 Each task below is self-contained: source code, its own README with setup instructions and example runs, and a demo video shared on LinkedIn.
 
-> 💡 A minimum of 3 tasks is required to complete the internship — I'm targeting all 3 below, with two additional **Advanced-level** projects (Voice Assistant, Chat Application) planned as independent builds afterward.
+> 💡 A minimum of 3 tasks is required to complete the internship — I'm targeting all 3 below.
 
 ---
 
@@ -60,19 +60,6 @@ Each task below is self-contained: source code, its own README with setup instru
 <td>⏳ Pending</td>
 <td>API integration, JSON parsing, error handling</td>
 </tr>
-
-</table>
-
-<details>
-<summary>🎯 <b>Bonus tasks (Advanced, independent build — click to expand)</b></summary>
-<br>
-
-| # | Project | Level | Status |
-|---|---------|-------|--------|
-| 4 | Voice Assistant | Advanced | ⏳ Planned |
-| 5 | Chat Application | Advanced | ⏳ Planned |
-
-These two are being built beyond the internship's minimum requirement, at Advanced level, to round out the portfolio.
 
 </details>
 
