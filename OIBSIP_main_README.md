@@ -1,7 +1,7 @@
 # OIBSIP — Python Programming Internship
 
 **Oasis Infobyte Python Programming Internship**
-Intern: [Your Name] | Batch: [Your Batch, e.g. July 2026]
+Intern: Vivek Shende | Batch: July 2026
 
 ## 📖 About
 This repository contains all projects completed as part of the Oasis Infobyte Python Programming Internship. Each task lives in its own folder with source code, documentation, and a demo.
@@ -12,7 +12,7 @@ This repository contains all projects completed as part of the Oasis Infobyte Py
 |---|---------|-------|--------|--------|
 | 1 | BMI Calculator | Beginner | ✅ Done | [Task1_BMICalculator](./Task1_BMICalculator) |
 | 2 | Password Generator | Beginner | 🔄 In Progress | [Task2_PasswordGenerator](./Task2_PasswordGenerator) |
-| 3 | Weather App | Beginner | ⏳ Pending | [Task3_WeatherApp](./Task3_WeatherApp) |
+| 3 | Weather App | Advanced | ⏳ Pending | [Task3_WeatherApp](./Task3_WeatherApp) |
 | 4 | Voice Assistant | Advanced | ⏳ Pending | [Task4_VoiceAssistant](./Task4_VoiceAssistant) |
 | 5 | Chat Application | Advanced | ⏳ Pending | [Task5_ChatApplication](./Task5_ChatApplication) |
 
@@ -29,7 +29,7 @@ python bmi_calculator.py
 Each task folder has its own README with setup and run instructions specific to that project.
 
 ## 🔗 Connect
-- LinkedIn: [your LinkedIn profile link]
+- LinkedIn:(https://www.linkedin.com/in/vivek-shende-259b96380)
 - Follow my progress with #oasisinfobyte #oasisinfobytefamily #internship #python
 
 ---
