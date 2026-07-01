@@ -29,7 +29,7 @@ python bmi_calculator.py
 Each task folder has its own README with setup and run instructions specific to that project.
 
 ## 🔗 Connect
-- LinkedIn:(https://www.linkedin.com/in/vivek-shende-259b96380)
+- LinkedIn:https://www.linkedin.com/in/vivek-shende-259b96380
 - Follow my progress with #oasisinfobyte #oasisinfobytefamily #internship #python
 
 ---
