@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 ![Internship](https://img.shields.io/badge/Oasis%20Infobyte-Internship-blue?style=for-the-badge)
 
-**Intern:** [Your Name] &nbsp;|&nbsp; **Batch:** [Your Batch] &nbsp;|&nbsp; **Deadline:** July 15, 2026
+**Intern:** Vivek Shende &nbsp;|&nbsp; **Batch:** June 2026 &nbsp;|&nbsp; **Deadline:** July 15, 2026
 
 [View Tasks](#-tasks) • [Tech Stack](#️-tech-stack) • [Setup](#-how-to-use) • [Connect](#-connect)
 
@@ -129,8 +129,8 @@ Oasis Infobyte's Python Programming Internship is a 4-week, hands-on program emp
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url-here)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](your-github-url-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-shende-259b96380)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VS2007-SM)
 
 Follow my progress: `#oasisinfobyte` `#oasisinfobytefamily` `#internship` `#python`
 
