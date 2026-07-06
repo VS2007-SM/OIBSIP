@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-3%2F3%20Complete-success?style=for-the-badge)
-![Internship](https://img.shields.io/badge/Oasis%20Infobyte-Internship-blue?style=for-the-badge)
+![Project](https://img.shields.io/badge/Python%20Programming-Projects-blue?style=for-the-badge)
 
 **Intern:** Vivek Shende &nbsp;|&nbsp; **Batch:** June 2026 &nbsp;|&nbsp; **Completed:** July 2026
 
