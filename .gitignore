@@ -1,0 +1,28 @@
+# ── Task 3: Weather App runtime files ──
+# These are generated automatically when the app runs (cache + saved
+# favorites) -- not source code, and specific to whoever runs the app
+# locally. They shouldn't be tracked in version control.
+Task3_WeatherApp/cache/
+Task3_WeatherApp/favorites.json
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# ── Virtual environments ──
+venv/
+env/
+.venv/
+
+# ── Editor / OS junk ──
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ── Logs ──
+*.log
