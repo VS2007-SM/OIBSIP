@@ -2,7 +2,7 @@
 
 # 🔐 Task 2 — Random Password Generator
 
-**Oasis Infobyte Python Programming Internship (OIBSIP)**
+** Python Programming**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Medium-orange?style=for-the-badge)
@@ -79,6 +79,6 @@ How many passwords would you like to generate? (1-20): 3
 ---
 <div align="center">
 
-Part of the **[OIBSIP](../)** repository — Oasis Infobyte Python Programming Internship
+Part of the **[OIBSIP](../)** repository — Oasis Infobyte Python Programming
 
 </div>
