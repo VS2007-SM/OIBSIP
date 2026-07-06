@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🐍 OIBSIP — Python Programming Internship
+# 🐍  Python Programming Projects
 
-### Oasis Infobyte Python Programming Internship
+###  Python Programming Project
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-3%2F3%20Complete-success?style=for-the-badge)
@@ -18,11 +18,11 @@
 
 ## 📖 About
 
-This repository documents my journey through the **Oasis Infobyte Python Programming Internship** — project-based program focused on building real, working Python applications from the ground up.
+This repository documents — project-based program focused on building real, working Python applications from the ground up.
 
 Each task below is self-contained: source code, its own README with setup instructions and example runs, and a demo video shared on LinkedIn.
 
-> ✅ All 3 required tasks completed, meeting the internship's requirement.
+> ✅ All 3 required tasks completed..
 ---
 
 ## 📋 Tasks
@@ -73,7 +73,7 @@ Task 2  ████████████████████ 100%  ✅
 Task 3  ████████████████████ 100%  ✅
 ```
 
-**Internship requirement met — 3 of 3 core tasks complete.**
+** requirement met — 3 of 3 core tasks complete.**
 
 ---
 
@@ -115,11 +115,7 @@ Each task folder contains its own `README.md` with setup instructions, dependenc
 
 ---
 
-## 🎓 About the Internship
-
-Oasis Infobyte's Python Programming Internship, hands-on program emphasizing practical project work over theory — the goal is a portfolio of working applications, not just completed exercises.
-
-**Program highlights:** hands-on projects • open-source exposure • resume-ready deliverables • certificate of completion 
+**Program highlights:** hands-on projects • open-source exposure • resume-ready deliverables 
 
 ---
 
@@ -130,7 +126,6 @@ Oasis Infobyte's Python Programming Internship, hands-on program emphasizing pra
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-shende-259b96380)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VS2007-SM))
 
-Follow my progress: `#oasisinfobyte` `#oasisinfobytefamily` `#internship` `#python`
 
 </div>
 
