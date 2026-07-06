@@ -22,8 +22,7 @@ This repository documents my journey through the **Oasis Infobyte Python Program
 
 Each task below is self-contained: source code, its own README with setup instructions and example runs, and a demo video shared on LinkedIn.
 
-> ✅ All 3 required tasks completed, meeting the internship's minimum requirement. Two additional **Advanced-level** projects (Voice Assistant, Chat Application) are planned as independent builds beyond the internship scope.
-
+> ✅ All 3 required tasks completed, meeting the internship's requirement.
 ---
 
 ## 📋 Tasks
@@ -130,9 +129,9 @@ Each task folder contains its own `README.md` with setup instructions, dependenc
 
 ## 🎓 About the Internship
 
-Oasis Infobyte's Python Programming Internship is a 4-week, hands-on program emphasizing practical project work over theory — the goal is a portfolio of working applications, not just completed exercises.
+Oasis Infobyte's Python Programming Internship, hands-on program emphasizing practical project work over theory — the goal is a portfolio of working applications, not just completed exercises.
 
-**Program highlights:** hands-on projects • open-source exposure • resume-ready deliverables • certificate of completion (min. 3 projects)
+**Program highlights:** hands-on projects • open-source exposure • resume-ready deliverables • certificate of completion 
 
 ---
 
@@ -140,8 +139,8 @@ Oasis Infobyte's Python Programming Internship is a 4-week, hands-on program emp
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url-here)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](your-github-url-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-shende-259b96380)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VS2007-SM))
 
 Follow my progress: `#oasisinfobyte` `#oasisinfobytefamily` `#internship` `#python`
 
