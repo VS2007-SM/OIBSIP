@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-3%2F3%20Complete-success?style=for-the-badge)
 ![Internship](https://img.shields.io/badge/Oasis%20Infobyte-Internship-blue?style=for-the-badge)
 
-**Intern:** [Your Name] &nbsp;|&nbsp; **Batch:** [Your Batch] &nbsp;|&nbsp; **Completed:** July 2026
+**Intern:** Vivek Shende &nbsp;|&nbsp; **Batch:** June 2026 &nbsp;|&nbsp; **Completed:** July 2026
 
 [View Tasks](#-tasks) • [Tech Stack](#️-tech-stack) • [Setup](#-how-to-use) • [Connect](#-connect)
 
@@ -18,7 +18,7 @@
 
 ## 📖 About
 
-This repository documents my journey through the **Oasis Infobyte Python Programming Internship** — a 4-week, project-based program focused on building real, working Python applications from the ground up.
+This repository documents my journey through the **Oasis Infobyte Python Programming Internship** — project-based program focused on building real, working Python applications from the ground up.
 
 Each task below is self-contained: source code, its own README with setup instructions and example runs, and a demo video shared on LinkedIn.
 
