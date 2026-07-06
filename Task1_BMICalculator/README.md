@@ -2,7 +2,7 @@
 
 # 🧮 Task 1 — BMI Calculator
 
-**Oasis Infobyte Python Programming Internship (OIBSIP)**
+** Python Programming Projects**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Beginner-brightgreen?style=for-the-badge)
@@ -79,6 +79,6 @@ Enter inches (e.g. 8): 8
 ---
 <div align="center">
 
-Part of the **[OIBSIP](../)** repository — Oasis Infobyte Python Programming Internship
+Part of the **[OIBSIP](../)** repository — Python Programming
 
 </div>
