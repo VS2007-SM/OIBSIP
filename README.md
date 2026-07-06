@@ -8,8 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-3%2F3%20Complete-success?style=for-the-badge)
 ![Project](https://img.shields.io/badge/Python%20Programming-Projects-blue?style=for-the-badge)
 
-**Intern:** Vivek Shende &nbsp;|&nbsp; **Batch:** June 2026 &nbsp;|&nbsp; **Completed:** July 2026
-
+**Name:** Vivek Shende &nbsp;|&nbsp;
 [View Tasks](#-tasks) • [Tech Stack](#️-tech-stack) • [Setup](#-how-to-use) • [Connect](#-connect)
 
 </div>
@@ -132,5 +131,5 @@ Each task folder contains its own `README.md` with setup instructions, dependenc
 ---
 
 <div align="center">
-<sub>Built with 🐍 during the Oasis Infobyte Python Programming Internship — July 2026</sub>
+<sub>Built with 🐍  Python Programming  — July 2026</sub>
 </div>
