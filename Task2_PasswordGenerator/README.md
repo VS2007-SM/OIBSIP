@@ -73,8 +73,7 @@ How many passwords would you like to generate? (1-20): 3
 - 🛡️ **Input validation** with sensible defaults and safety checks (e.g. auto-adjusting length if it's too short to fit all selected character types)
 - 🧩 **Function decomposition** for readability and testability
 
-## 📹 Demo
-[Link to demo video / LinkedIn post — add after recording]
+
 
 ---
 <div align="center">
