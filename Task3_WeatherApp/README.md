@@ -2,7 +2,7 @@
 
 # 🌦️ Task 3 — Advanced Weather App
 
-**Oasis Infobyte Python Programming Internship (OIBSIP)**
+** Python Programming **
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Advanced-red?style=for-the-badge)
@@ -105,12 +105,11 @@ Make sure `weather_service.py` is in the same folder — `weather_gui.py` import
 | Network unavailable | Falls back to last cached result (if any) with a visible "offline" banner, instead of crashing |
 | Any unexpected error | Caught by a safety-net handler — the UI always shows *some* feedback rather than hanging silently on "Searching..." |
 
-## 📹 Demo
-[Link to demo video / LinkedIn post — add after recording]
+
 
 ---
 <div align="center">
 
-Part of the **[OIBSIP](../)** repository — Oasis Infobyte Python Programming Internship
+Part of the **[OIBSIP](../)** repository 
 
 </div>
