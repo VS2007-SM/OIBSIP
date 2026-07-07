@@ -73,8 +73,7 @@ Enter inches (e.g. 8): 8
 - 🏷️ **Standards-based classification** — BMI categories follow the WHO scale exactly, not arbitrary thresholds
 - 🔍 **Transparency over black-box conversion** — the result screen always shows both what was typed and the converted standard value, so the conversion is never hidden from the user
 
-## 📹 Demo
-[Link to demo video / LinkedIn post — add after recording]
+
 
 ---
 <div align="center">
